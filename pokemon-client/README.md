@@ -4,11 +4,11 @@ Simple Python application that gets Pokemon information using the PokeAPI
 
 ## Features
 
-- Search Pokemon by name
-- You will get:
-  - Name
-  - Height
-  - Weight
+-Search Pokemon by name
+-You will get:
+  -Name
+  -Height
+  -Weight
 
 ## Installation
 
@@ -36,13 +36,13 @@ Install dependencies:
 uv sync
 ```
 
-## Run the application
+## How to run the application
 
 ```bash
 uv run main.py
 ```
 
-## Example
+## It will look like this:
 
 ```text
 Enter pokemon name: pikachu
