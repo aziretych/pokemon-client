@@ -6,9 +6,9 @@ Simple Python application that gets Pokemon information using the PokeAPI
 
 - Search Pokemon by name
 - You will get:
-    -Name
-    -Height
-    -Weight
+    - Name
+    - Height
+    - Weight
 
 ## Installation
 
